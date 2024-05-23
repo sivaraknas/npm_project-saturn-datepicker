@@ -1,6 +1,6 @@
 {
-  "name": "ng-packaged",
-  "version": "0.0.0",
+  "name": "@saturn-datepicker",
+  "version": "12.0.0",
   "private": true,
   "license": "MIT",
   "scripts": {
